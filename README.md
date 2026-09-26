@@ -53,7 +53,7 @@ A média de hoje das temperaturas é: 10,0 ºC
 A entrada dos dados respeita o seguinte fluxo:
 
 <p align="left">
-  <img src="./image/cenario_2.png" width="700" alt="Cenário de Entrada 2">
+  <img src="./image/cenario.png" width="700" alt="Cenário de Entrada 2">
 </p>
 
 Saída esperada do programa:
