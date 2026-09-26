@@ -66,7 +66,7 @@ A média de hoje das temperaturas é: 8,3 ºC
 
 ## Ferramentas e Requisitos Técnicos
 
-* **Linguagem:** Java (utilize uma versão LTS, como Java 17 ou 21).
+* **Linguagem:** Java (utilize uma versão LTS, como Java 17 ou 21 ou 25).
 * **IDE:** Desenvolva na IDE de sua preferência (VS Code, IntelliJ, Eclipse, NetBeans).
 * **Entrega:**
   1. Faça o `fork` deste repositório para sua conta no GitHub.
